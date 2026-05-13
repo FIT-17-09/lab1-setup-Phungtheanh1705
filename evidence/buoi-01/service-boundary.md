@@ -101,6 +101,7 @@ Nhóm xây dựng phần xử lý nghiệp vụ trung tâm của hệ thống Sm
 
 ## 8. Sơ đồ minh họa
 
-<img width="1751" height="608" alt="image" src="https://github.com/user-attachments/assets/2c8880d0-12fe-449d-91bd-6be68e4ee391" />
+<img width="1024" height="356" alt="image" src="https://github.com/user-attachments/assets/f0c18c5a-5062-41f6-aad6-ea0811cee35a" />
+
 
 
